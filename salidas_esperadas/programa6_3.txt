@@ -1,0 +1,54 @@
+{
+   "intents":[
+ {
+   "tag": "hours",
+   "patterns": [
+      "timing of college"
+   ],
+   "responses": [
+      "College is open 8am-5pm Monday-Saturday!"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "number",
+   "patterns": [
+      "more info"
+   ],
+   "responses": [
+      "You can contact at: NUMBER"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "course",
+   "patterns": [
+      "list of courses"
+   ],
+   "responses": [
+      "Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "fees",
+   "patterns": [
+      "information about fee"
+   ],
+   "responses": [
+      "For Fee detail visit <a target=\"_blank\" href=\"LINK\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "location",
+   "patterns": [
+      "where is the college located"
+   ],
+   "responses": [
+      "<a target=\"_blank\" href=\"ADD YOU GOOGLE MAP LINK HERE\"> here</a>"
+   ],
+   "context_set": ""
+}
+]
+}

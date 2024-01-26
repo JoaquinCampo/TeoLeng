@@ -1,0 +1,10 @@
+syllabus 7
+library 14
+infrastructure 3
+canteen 11
+menu 7
+placement 9
+ithod 4
+computerhod 4
+extchod 4
+principal 7

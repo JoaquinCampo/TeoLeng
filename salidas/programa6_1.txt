@@ -1,0 +1,24 @@
+{
+   "intents":[
+ {
+   "tag": "greeting",
+   "patterns": [
+      "Hi"
+   ],
+   "responses": [
+      "Hello!"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "goodbye",
+   "patterns": [
+      "cya"
+   ],
+   "responses": [
+      "Sad to see you go :("
+   ],
+   "context_set": ""
+}
+]
+}

@@ -1,0 +1,7 @@
+sem 11
+admission 6
+scholarship 26
+facilities 5
+college intake 9
+uniform 9
+committee 6

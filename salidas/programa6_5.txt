@@ -1,0 +1,104 @@
+{
+   "intents":[
+ {
+   "tag": "syllabus",
+   "patterns": [
+      "Syllabus for IT"
+   ],
+   "responses": [
+      "Timetable provide direct to the students OR To know about syllabus visit <a target=\"_blank\" href=\"TIMETABLE LINK\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "library",
+   "patterns": [
+      "is there any library"
+   ],
+   "responses": [
+      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "infrastructure",
+   "patterns": [
+      "how is college infrastructure"
+   ],
+   "responses": [
+      "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "canteen",
+   "patterns": [
+      "food facilities"
+   ],
+   "responses": [
+      "Our university has canteen with variety of food available"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "menu",
+   "patterns": [
+      "food menu"
+   ],
+   "responses": [
+      "we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "placement",
+   "patterns": [
+      "What is college placement"
+   ],
+   "responses": [
+      "To know about placement visit <a target=\"_blank\" href=\"PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "ithod",
+   "patterns": [
+      "Who is HOD"
+   ],
+   "responses": [
+      "All engineering departments have only one hod XYZ who available on (Place name)"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "computerhod",
+   "patterns": [
+      "Who is computer HOD"
+   ],
+   "responses": [
+      "All engineering departments have only one hod XYZ who available on (PLACE NAME)"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "extchod",
+   "patterns": [
+      "Who is extc HOD"
+   ],
+   "responses": [
+      "Different school wise hod are different.So be more clear with your school or department"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "principal",
+   "patterns": [
+      "what is the name of principal"
+   ],
+   "responses": [
+      "XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate"
+   ],
+   "context_set": ""
+}
+]
+}

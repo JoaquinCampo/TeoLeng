@@ -1,0 +1,4 @@
+hostel 22
+event 11
+document 13
+floors 7

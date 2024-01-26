@@ -1,0 +1,14 @@
+{
+   "intents":[
+ {
+   "tag": "T",
+   "patterns": [
+      "P"
+   ],
+   "responses": [
+      "R"
+   ],
+   "context_set": ""
+}
+]
+}

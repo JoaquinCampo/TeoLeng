@@ -1,0 +1,84 @@
+{
+   "intents":[
+ {
+   "tag": "random",
+   "patterns": [
+      "I love you"
+   ],
+   "responses": [
+      "I am not program for this, please ask appropriate query"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "swear",
+   "patterns": [
+      "fuck"
+   ],
+   "responses": [
+      "please use appropriate language"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "vacation",
+   "patterns": [
+      "holidays"
+   ],
+   "responses": [
+      "Academic calender is given to you by your class-soordinators after you join your respective classes"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "sports",
+   "patterns": [
+      "sports and games"
+   ],
+   "responses": [
+      "Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\"(LINK IF HAVE)\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "salutaion",
+   "patterns": [
+      "okk"
+   ],
+   "responses": [
+      "I am glad I helped you"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "task",
+   "patterns": [
+      "what can you do"
+   ],
+   "responses": [
+      "I can answer to low-intermediate questions regarding college"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "ragging",
+   "patterns": [
+      "ragging"
+   ],
+   "responses": [
+      "We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "hod",
+   "patterns": [
+      "hod"
+   ],
+   "responses": [
+      "HODs differ for each branch, please be more specific like: (HOD it)"
+   ],
+   "context_set": ""
+}
+]
+}

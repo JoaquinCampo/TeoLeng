@@ -1,0 +1,8 @@
+random 3
+swear 9
+vacation 12
+sports 7
+salutaion 13
+task 6
+ragging 10
+hod 3

@@ -1,0 +1,74 @@
+{
+   "intents":[
+ {
+   "tag": "sem",
+   "patterns": [
+      "exam dates"
+   ],
+   "responses": [
+      "Here is the Academic Calendar  <a target=\"_blank\" href=\"YOUR ACADEMIC CALENDER\">website</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "admission",
+   "patterns": [
+      "what is the process of admission"
+   ],
+   "responses": [
+      "Application can also be submitted online through the Unversity's  <a target=\"_blank\" href=\"LINK OF ADMISSION DOCUMENT\">website</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "scholarship",
+   "patterns": [
+      "scholarship"
+   ],
+   "responses": [
+      "Many government scholarships are supported by our university. For details and updates visit <a target=\"_blank\" href=\"(SCHOLARSHIP DETAILS LINK)\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "facilities",
+   "patterns": [
+      "What facilities college provide"
+   ],
+   "responses": [
+      "Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "college intake",
+   "patterns": [
+      "max number of students"
+   ],
+   "responses": [
+      "For IT, Computer and extc 60 per branch and seat may be differ for different department."
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "uniform",
+   "patterns": [
+      "college dress code"
+   ],
+   "responses": [
+      "ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "committee",
+   "patterns": [
+      "what are the different committe in college"
+   ],
+   "responses": [
+      "For the various committe in college contact this number: ADD NUMBER"
+   ],
+   "context_set": ""
+}
+]
+}

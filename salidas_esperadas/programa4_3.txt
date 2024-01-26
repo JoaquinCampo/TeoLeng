@@ -1,0 +1,5 @@
+hours 17 1
+number 15 1
+course 27 1
+fees 23 1
+location 14 1

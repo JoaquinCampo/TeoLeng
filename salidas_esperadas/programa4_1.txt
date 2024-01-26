@@ -1,0 +1,2 @@
+greeting 10 3
+goodbye 12 4

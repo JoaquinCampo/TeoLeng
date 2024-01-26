@@ -1,0 +1,164 @@
+{
+   "intents":[
+ {
+   "tag": "syllabus",
+   "patterns": [
+      "Syllabus for IT",
+      "what is the Information Technology syllabus",
+      "syllabus",
+      "timetable",
+      "what is IT syllabus",
+      "syllabus",
+      "What is next lecture"
+   ],
+   "responses": [
+      "Timetable provide direct to the students OR To know about syllabus visit <a target=\"_blank\" href=\"TIMETABLE LINK\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "library",
+   "patterns": [
+      "is there any library",
+      "library facility",
+      "library facilities",
+      "do you have library",
+      "does the college have library facility",
+      "college library",
+      "where can i get books",
+      "book facility",
+      "Where is library",
+      "Library",
+      "Library information",
+      "Library books information",
+      "Tell me about library",
+      "how many libraries"
+   ],
+   "responses": [
+      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "infrastructure",
+   "patterns": [
+      "how is college infrastructure",
+      "infrastructure",
+      "college infrastructure"
+   ],
+   "responses": [
+      "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "canteen",
+   "patterns": [
+      "food facilities",
+      "canteen facilities",
+      "canteen facility",
+      "is there any canteen",
+      "Is there a cafetaria in college",
+      "Does college have canteen",
+      "Where is canteen",
+      "where is cafetaria",
+      "canteen",
+      "Food",
+      "Cafetaria"
+   ],
+   "responses": [
+      "Our university has canteen with variety of food available"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "menu",
+   "patterns": [
+      "food menu",
+      "food in canteen",
+      "Whats there on menu",
+      "what is available in college canteen",
+      "what foods can we get in college canteen",
+      "food variety",
+      "What is there to eat?"
+   ],
+   "responses": [
+      "we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "placement",
+   "patterns": [
+      "What is college placement",
+      "Which companies visit in college",
+      "What is average package",
+      "companies visit",
+      "package",
+      "About placement",
+      "placement",
+      "recruitment",
+      "companies"
+   ],
+   "responses": [
+      "To know about placement visit <a target=\"_blank\" href=\"PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "ithod",
+   "patterns": [
+      "Who is HOD",
+      "Where is HOD",
+      "it hod",
+      "name of it hod"
+   ],
+   "responses": [
+      "All engineering departments have only one hod XYZ who available on (Place name)"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "computerhod",
+   "patterns": [
+      "Who is computer HOD",
+      "Where is computer HOD",
+      "computer hod",
+      "name of computer hod"
+   ],
+   "responses": [
+      "All engineering departments have only one hod XYZ who available on (PLACE NAME)"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "extchod",
+   "patterns": [
+      "Who is extc HOD",
+      "Where is  extc HOD",
+      "extc hod",
+      "name of extc hod"
+   ],
+   "responses": [
+      "Different school wise hod are different.So be more clear with your school or department"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "principal",
+   "patterns": [
+      "what is the name of principal",
+      "whatv is the principal name",
+      "principal name",
+      "Who is college principal",
+      "Where is principal's office",
+      "principal",
+      "name of principal"
+   ],
+   "responses": [
+      "XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate"
+   ],
+   "context_set": ""
+}
+]
+}

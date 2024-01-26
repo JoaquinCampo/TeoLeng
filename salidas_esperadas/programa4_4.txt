@@ -1,0 +1,4 @@
+hostel 22 1
+event 11 1
+document 13 1
+floors 7 1

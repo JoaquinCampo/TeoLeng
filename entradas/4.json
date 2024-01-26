@@ -1,0 +1,93 @@
+{
+   "intents":[
+ {
+   "tag": "hostel",
+   "patterns": [
+      "hostel facility",
+      "hostel servive",
+      "hostel location",
+      "hostel address",
+      "hostel facilities",
+      "hostel fees",
+      "Does college provide hostel",
+      "Is there any hostel",
+      "Where is hostel",
+      "do you have hostel",
+      "do you guys have hostel",
+      "hostel",
+      "hostel capacity",
+      "what is the hostel fee",
+      "how to get in hostel",
+      "what is the hostel address",
+      "how far is hostel from college",
+      "hostel college distance",
+      "where is the hostel",
+      "how big is the hostel",
+      "distance between college and hostel",
+      "distance between hostel and college"
+   ],
+   "responses": [
+      "For hostel detail visit <a target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "event",
+   "patterns": [
+      "events organised",
+      "list of events",
+      "list of events organised in college",
+      "list of events conducted in college",
+      "What events are conducted in college",
+      "Are there any event held at college",
+      "Events?",
+      "functions",
+      "what are the events",
+      "tell me about events",
+      "what about events"
+   ],
+   "responses": [
+      "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "document",
+   "patterns": [
+      "document to bring",
+      "documents needed for admision",
+      "documents needed at the time of admission",
+      "documents needed during admission",
+      "documents required for admision",
+      "documents required at the time of admission",
+      "documents required during admission",
+      "What document are required for admission",
+      "Which document to bring for admission",
+      "documents",
+      "what documents do i need",
+      "what documents do I need for admission",
+      "documents needed"
+   ],
+   "responses": [
+      "To know more about document required visit <a target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "floors",
+   "patterns": [
+      "size of campus",
+      "building size",
+      "How many floors does college have",
+      "floors in college",
+      "floors in college",
+      "how tall is UNI's College of Engineering college building",
+      "floors"
+   ],
+   "responses": [
+      "My College has total 2 floors "
+   ],
+   "context_set": ""
+}
+]
+}
